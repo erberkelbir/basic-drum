@@ -1,8 +1,5 @@
 
-
-# Basic Drum Kit
-## Project Overview
-
+#Project Overview
 The Basic Drum Kit is a web-based application developed as a fun and interactive way for users to create their own unique percussion sounds. It serves as a practical learning tool to understand the implementation of event listeners in JavaScript and the manipulation of audio elements.
 
 
